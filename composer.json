@@ -1,0 +1,7 @@
+{
+    "name": "ivarkoster/wiel",
+    "autoload": {
+        "psr-0" : {
+            "Ivarkoster\\wiel" : "src"
+        }
+    }
